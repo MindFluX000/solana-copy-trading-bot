@@ -207,3 +207,4 @@
 0300. ✨ feat: add export to CSV option
 0323. 📚 docs: clarify environment setup
 0545. 🎨 style: standardize quote style
+0983. 🔧 refactor: split large controller into smaller functions
