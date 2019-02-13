@@ -213,3 +213,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0318. 🔧 refactor: refactor quiz grading logic
 0899. 🚀 perf: cache repeated calculations
+0479. 🐛 fix: fix null pointer exception on login
