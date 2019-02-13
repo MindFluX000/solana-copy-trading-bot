@@ -212,3 +212,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0817. 🔧 refactor: remove redundant code blocks
 0318. 🔧 refactor: refactor quiz grading logic
+0899. 🚀 perf: cache repeated calculations
