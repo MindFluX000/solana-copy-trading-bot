@@ -218,3 +218,4 @@
 0793. 📚 docs: clarify environment setup
 0949. 📚 docs: write FAQ section
 0666. 🐛 fix: fix broken CSS in mobile view
+0844. 📚 docs: update README with setup steps
