@@ -221,3 +221,4 @@
 0844. 📚 docs: update README with setup steps
 0009. ✨ feat: enable dark mode toggle
 0936. 🔧 refactor: organize models into subfolders
+0177. 📚 docs: add API usage examples
