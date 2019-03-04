@@ -219,3 +219,4 @@
 0949. 📚 docs: write FAQ section
 0666. 🐛 fix: fix broken CSS in mobile view
 0844. 📚 docs: update README with setup steps
+0009. ✨ feat: enable dark mode toggle
