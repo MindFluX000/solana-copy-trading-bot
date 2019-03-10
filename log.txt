@@ -225,3 +225,4 @@
 0687. 🎨 style: remove trailing whitespace
 0790. 📚 docs: write FAQ section
 0823. ✨ feat: add user authentication
+0520. 🐛 fix: fix null pointer exception on login
