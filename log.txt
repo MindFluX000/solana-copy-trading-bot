@@ -227,3 +227,4 @@
 0823. ✨ feat: add user authentication
 0520. 🐛 fix: fix null pointer exception on login
 0390. 🎨 style: standardize quote style
+0454. ♻️ chore: bump dependencies
