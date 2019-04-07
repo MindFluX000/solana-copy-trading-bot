@@ -237,3 +237,4 @@
 0169. 📚 docs: add API usage examples
 0418. ✅ test: mock database connection in test suite
 0960. ✅ test: increase coverage on auth module
+0848. 📚 docs: update README with setup steps
