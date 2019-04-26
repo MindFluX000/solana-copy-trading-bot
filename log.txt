@@ -241,3 +241,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0157. ✅ test: mock database connection in test suite
 0942. ✅ test: increase coverage on auth module
+0653. 🐛 fix: prevent crash on empty input
