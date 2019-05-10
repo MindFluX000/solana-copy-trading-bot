@@ -248,3 +248,4 @@
 0164. 📚 docs: document token refresh logic
 0777. 📚 docs: document token refresh logic
 0984. ♻️ chore: clean up unused files
+0085. ✨ feat: support email verification
