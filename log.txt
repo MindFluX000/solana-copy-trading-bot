@@ -253,3 +253,4 @@
 0260. ✨ feat: create admin dashboard
 0204. 🎨 style: standardize quote style
 0211. 🔧 refactor: remove redundant code blocks
+0127. 🐛 fix: fix null pointer exception on login
