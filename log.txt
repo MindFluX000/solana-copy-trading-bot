@@ -259,3 +259,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0826. 📚 docs: clarify environment setup
 0958. 🐛 fix: prevent crash on empty input
+0102. ✨ feat: support email verification
