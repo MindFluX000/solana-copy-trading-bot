@@ -262,3 +262,4 @@
 0102. ✨ feat: support email verification
 0875. ✅ test: increase coverage on auth module
 0151. ✅ test: add unit test for quiz service
+0747. 🔧 refactor: clean up auth middleware
