@@ -286,3 +286,4 @@
 0574. ✨ feat: enable dark mode toggle
 0027. 📚 docs: clarify environment setup
 0053. ✅ test: increase coverage on auth module
+0898. 🐛 fix: fix broken CSS in mobile view
