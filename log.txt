@@ -288,3 +288,4 @@
 0053. ✅ test: increase coverage on auth module
 0898. 🐛 fix: fix broken CSS in mobile view
 0547. 📚 docs: write FAQ section
+0721. 🚀 perf: optimize database query for quiz results
