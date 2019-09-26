@@ -296,3 +296,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0075. ✅ test: mock database connection in test suite
 0980. 🎨 style: reformat files with black
+0722. 📚 docs: add API usage examples
