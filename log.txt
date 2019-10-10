@@ -301,3 +301,4 @@
 0968. 🎨 style: standardize quote style
 0946. ✅ test: add unit test for quiz service
 0811. 🎨 style: reformat files with black
+0167. 🚀 perf: reduce image load time
