@@ -309,3 +309,4 @@
 0583. ✅ test: increase coverage on auth module
 0327. 🔧 refactor: split large controller into smaller functions
 0702. ✨ feat: add user authentication
+0198. 📚 docs: clarify environment setup
