@@ -322,3 +322,4 @@
 0403. ✅ test: mock database connection in test suite
 0667. ✨ feat: add export to CSV option
 0692. ✅ test: add integration test for /submit endpoint
+0054. ♻️ chore: update .gitignore
