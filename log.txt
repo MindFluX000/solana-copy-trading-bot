@@ -323,3 +323,4 @@
 0667. ✨ feat: add export to CSV option
 0692. ✅ test: add integration test for /submit endpoint
 0054. ♻️ chore: update .gitignore
+0084. 🐛 fix: handle 500 error in quiz API
