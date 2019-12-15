@@ -327,3 +327,4 @@
 0693. 📚 docs: add API usage examples
 0290. ✅ test: test user registration edge cases
 0858. ♻️ chore: clean up unused files
+0411. ✅ test: add unit test for quiz service
