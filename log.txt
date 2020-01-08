@@ -338,3 +338,4 @@
 0870. ♻️ chore: clean up unused files
 0032. 🎨 style: apply consistent indentation
 0557. 🔧 refactor: clean up auth middleware
+0188. 🎨 style: apply consistent indentation
