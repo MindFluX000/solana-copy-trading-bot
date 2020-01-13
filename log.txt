@@ -340,3 +340,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0188. 🎨 style: apply consistent indentation
 0920. 🔧 refactor: organize models into subfolders
+0654. ✨ feat: create admin dashboard
