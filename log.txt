@@ -344,3 +344,4 @@
 0446. 🎨 style: apply consistent indentation
 0287. 📚 docs: write FAQ section
 0384. 📚 docs: clarify environment setup
+0551. 📚 docs: write FAQ section
