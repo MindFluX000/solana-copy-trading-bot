@@ -347,3 +347,4 @@
 0551. 📚 docs: write FAQ section
 0136. 🚀 perf: lazy-load components
 0099. 🚀 perf: reduce image load time
+0208. 🔧 refactor: clean up auth middleware
