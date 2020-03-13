@@ -362,3 +362,4 @@
 0301. 🎨 style: apply consistent indentation
 0979. 🎨 style: standardize quote style
 0274. 🔧 refactor: refactor quiz grading logic
+0937. 🐛 fix: handle 500 error in quiz API
