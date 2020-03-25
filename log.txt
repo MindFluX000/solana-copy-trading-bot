@@ -368,3 +368,4 @@
 0346. ✅ test: mock database connection in test suite
 0622. 🎨 style: apply consistent indentation
 0609. 🐛 fix: handle 500 error in quiz API
+0621. 🔧 refactor: clean up auth middleware
