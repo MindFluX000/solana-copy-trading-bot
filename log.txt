@@ -378,3 +378,4 @@
 0354. 📚 docs: add API usage examples
 0041. 🐛 fix: fix broken CSS in mobile view
 0804. ♻️ chore: add GitHub actions badge
+0050. ✨ feat: enable dark mode toggle
