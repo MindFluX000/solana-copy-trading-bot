@@ -379,3 +379,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0804. ♻️ chore: add GitHub actions badge
 0050. ✨ feat: enable dark mode toggle
+0237. 🎨 style: standardize quote style
