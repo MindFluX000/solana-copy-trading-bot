@@ -380,3 +380,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0050. ✨ feat: enable dark mode toggle
 0237. 🎨 style: standardize quote style
+0620. ✨ feat: implement quiz timer feature
