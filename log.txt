@@ -385,3 +385,4 @@
 0186. ✅ test: test user registration edge cases
 0764. ✨ feat: add user authentication
 0909. 🔧 refactor: organize models into subfolders
+0975. 🎨 style: apply consistent indentation
