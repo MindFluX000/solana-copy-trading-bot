@@ -387,3 +387,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0975. 🎨 style: apply consistent indentation
 0062. ♻️ chore: update .gitignore
+0833. ✨ feat: add user authentication
