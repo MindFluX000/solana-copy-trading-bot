@@ -392,3 +392,4 @@
 0441. 📚 docs: add API usage examples
 0243. 🔧 refactor: clean up auth middleware
 0008. 🚀 perf: reduce image load time
+0368. 🚀 perf: lazy-load components
