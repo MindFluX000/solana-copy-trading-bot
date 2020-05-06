@@ -394,3 +394,4 @@
 0008. 🚀 perf: reduce image load time
 0368. 🚀 perf: lazy-load components
 0215. 🎨 style: reformat files with black
+0783. 🐛 fix: handle 500 error in quiz API
