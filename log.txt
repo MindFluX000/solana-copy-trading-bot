@@ -423,3 +423,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0494. 🎨 style: rename variables for clarity
 0627. 📚 docs: document token refresh logic
+0746. ♻️ chore: add GitHub actions badge
