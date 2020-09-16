@@ -435,3 +435,4 @@
 0095. ✅ test: mock database connection in test suite
 0294. 🐛 fix: prevent crash on empty input
 0585. 🚀 perf: lazy-load components
+0224. 🐛 fix: fix broken CSS in mobile view
