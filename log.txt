@@ -443,3 +443,4 @@
 0990. ♻️ chore: rename env.example
 0854. ♻️ chore: rename env.example
 0104. 🎨 style: apply consistent indentation
+0986. 📚 docs: document token refresh logic
