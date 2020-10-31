@@ -453,3 +453,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0176. 🔧 refactor: remove redundant code blocks
 0021. ✨ feat: support email verification
+0542. 🔧 refactor: organize models into subfolders
