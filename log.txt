@@ -456,3 +456,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0116. ✨ feat: support email verification
 0808. 🚀 perf: optimize database query for quiz results
+0317. ✅ test: test user registration edge cases
