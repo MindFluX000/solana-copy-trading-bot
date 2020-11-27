@@ -461,3 +461,4 @@
 0417. 🎨 style: rename variables for clarity
 0847. ♻️ chore: clean up unused files
 0794. ♻️ chore: clean up unused files
+0884. 📚 docs: clarify environment setup
