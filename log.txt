@@ -462,3 +462,4 @@
 0847. ♻️ chore: clean up unused files
 0794. ♻️ chore: clean up unused files
 0884. 📚 docs: clarify environment setup
+0375. 🐛 fix: handle 500 error in quiz API
