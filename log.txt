@@ -472,3 +472,4 @@
 0879. 🎨 style: standardize quote style
 0727. ♻️ chore: add GitHub actions badge
 0492. 🎨 style: remove trailing whitespace
+0107. 🐛 fix: prevent crash on empty input
