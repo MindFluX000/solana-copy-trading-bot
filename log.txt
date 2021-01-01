@@ -475,3 +475,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0028. 🎨 style: standardize quote style
 0499. 🎨 style: reformat files with black
+0834. ✅ test: increase coverage on auth module
