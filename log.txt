@@ -477,3 +477,4 @@
 0499. 🎨 style: reformat files with black
 0834. ✅ test: increase coverage on auth module
 0239. 🎨 style: standardize quote style
+0101. 📚 docs: clarify environment setup
