@@ -479,3 +479,4 @@
 0239. 🎨 style: standardize quote style
 0101. 📚 docs: clarify environment setup
 0377. ✨ feat: add user authentication
+0961. 📚 docs: add API usage examples
