@@ -480,3 +480,4 @@
 0101. 📚 docs: clarify environment setup
 0377. ✨ feat: add user authentication
 0961. 📚 docs: add API usage examples
+0486. ✨ feat: add export to CSV option
