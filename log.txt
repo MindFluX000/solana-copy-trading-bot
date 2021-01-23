@@ -482,3 +482,4 @@
 0961. 📚 docs: add API usage examples
 0486. ✨ feat: add export to CSV option
 0311. 🎨 style: apply consistent indentation
+0362. 📚 docs: add API usage examples
