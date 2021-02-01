@@ -485,3 +485,4 @@
 0362. 📚 docs: add API usage examples
 0178. ✨ feat: support email verification
 0602. 🔧 refactor: remove redundant code blocks
+0908. ♻️ chore: bump dependencies
