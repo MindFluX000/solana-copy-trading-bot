@@ -488,3 +488,4 @@
 0908. ♻️ chore: bump dependencies
 0535. 📚 docs: write FAQ section
 0350. 🚀 perf: cache repeated calculations
+0462. ♻️ chore: update .gitignore
