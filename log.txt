@@ -491,3 +491,4 @@
 0462. ♻️ chore: update .gitignore
 0257. 📚 docs: clarify environment setup
 0935. 📚 docs: update README with setup steps
+0531. 🐛 fix: prevent crash on empty input
