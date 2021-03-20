@@ -497,3 +497,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0439. 🐛 fix: correct typo in registration form
 0409. 🚀 perf: lazy-load components
+0893. 🐛 fix: handle 500 error in quiz API
