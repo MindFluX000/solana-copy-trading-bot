@@ -500,3 +500,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0563. 📚 docs: clarify environment setup
 0532. 🔧 refactor: split large controller into smaller functions
+0814. 🔧 refactor: remove redundant code blocks
