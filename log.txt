@@ -503,3 +503,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0675. 🔧 refactor: organize models into subfolders
 0230. ✨ feat: create admin dashboard
+0111. 📚 docs: update README with setup steps
