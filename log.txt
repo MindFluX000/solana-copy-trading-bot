@@ -512,3 +512,4 @@
 0174. 📚 docs: clarify environment setup
 0212. 🎨 style: standardize quote style
 0395. 📚 docs: write FAQ section
+0276. ✅ test: add integration test for /submit endpoint
