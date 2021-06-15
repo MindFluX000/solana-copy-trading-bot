@@ -522,3 +522,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0701. 🔧 refactor: clean up auth middleware
 0524. ♻️ chore: rename env.example
+0398. 🚀 perf: cache repeated calculations
