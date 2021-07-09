@@ -531,3 +531,4 @@
 0437. 📚 docs: clarify environment setup
 0149. ✨ feat: add export to CSV option
 0850. ♻️ chore: rename env.example
+0333. 🚀 perf: cache repeated calculations
