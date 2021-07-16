@@ -533,3 +533,4 @@
 0850. ♻️ chore: rename env.example
 0333. 🚀 perf: cache repeated calculations
 0024. 📚 docs: write FAQ section
+0573. ✅ test: add integration test for /submit endpoint
