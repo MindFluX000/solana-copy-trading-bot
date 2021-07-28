@@ -539,3 +539,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0225. 🚀 perf: reduce image load time
 0422. 🔧 refactor: organize models into subfolders
+0088. 📚 docs: add API usage examples
