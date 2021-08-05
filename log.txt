@@ -542,3 +542,4 @@
 0088. 📚 docs: add API usage examples
 0697. ♻️ chore: bump dependencies
 0614. 🚀 perf: reduce image load time
+0349. ✅ test: increase coverage on auth module
