@@ -544,3 +544,4 @@
 0614. 🚀 perf: reduce image load time
 0349. ✅ test: increase coverage on auth module
 0221. ✨ feat: add user authentication
+0359. 🔧 refactor: clean up auth middleware
