@@ -552,3 +552,4 @@
 0997. ✅ test: increase coverage on auth module
 0661. ✅ test: add integration test for /submit endpoint
 0839. 🎨 style: apply consistent indentation
+0976. ✨ feat: implement quiz timer feature
