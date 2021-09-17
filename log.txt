@@ -559,3 +559,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0465. 🎨 style: rename variables for clarity
 0108. 🎨 style: remove trailing whitespace
+0916. ♻️ chore: bump dependencies
