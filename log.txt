@@ -561,3 +561,4 @@
 0108. 🎨 style: remove trailing whitespace
 0916. ♻️ chore: bump dependencies
 0068. 🐛 fix: fix null pointer exception on login
+0364. 🐛 fix: resolve issue with date parsing
