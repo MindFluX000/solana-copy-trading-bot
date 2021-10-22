@@ -579,3 +579,4 @@
 0970. ♻️ chore: update .gitignore
 0630. 🚀 perf: lazy-load components
 0269. ✅ test: test user registration edge cases
+0751. 🐛 fix: handle 500 error in quiz API
