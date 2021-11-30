@@ -600,3 +600,4 @@
 0869. ♻️ chore: bump dependencies
 0485. 📚 docs: update README with setup steps
 0338. ♻️ chore: add GitHub actions badge
+0171. 🐛 fix: fix broken CSS in mobile view
