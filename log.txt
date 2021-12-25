@@ -609,3 +609,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0741. 🎨 style: apply consistent indentation
 0452. ✨ feat: implement quiz timer feature
+0308. 🚀 perf: reduce image load time
