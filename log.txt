@@ -622,3 +622,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0812. 🔧 refactor: refactor quiz grading logic
 0757. 🔧 refactor: remove redundant code blocks
+0761. ✅ test: add unit test for quiz service
