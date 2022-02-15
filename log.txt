@@ -627,3 +627,4 @@
 0765. ♻️ chore: clean up unused files
 0889. 🚀 perf: lazy-load components
 0154. 🐛 fix: prevent crash on empty input
+0971. 🎨 style: standardize quote style
