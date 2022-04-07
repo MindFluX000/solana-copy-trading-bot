@@ -647,3 +647,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0374. 🎨 style: standardize quote style
 0370. 🚀 perf: reduce image load time
+0782. 📚 docs: improve code comments in utils
