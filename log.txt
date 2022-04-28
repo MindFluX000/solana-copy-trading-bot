@@ -662,3 +662,4 @@
 0662. ♻️ chore: clean up unused files
 0628. ♻️ chore: add GitHub actions badge
 0650. ✅ test: add unit test for quiz service
+0058. ♻️ chore: add GitHub actions badge
