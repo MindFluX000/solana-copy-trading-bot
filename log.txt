@@ -668,3 +668,4 @@
 0921. 🐛 fix: correct typo in registration form
 0001. 🚀 perf: cache repeated calculations
 0281. ✨ feat: support email verification
+0788. 📚 docs: add API usage examples
