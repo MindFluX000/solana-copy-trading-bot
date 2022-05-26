@@ -676,3 +676,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0373. 📚 docs: document token refresh logic
 0768. 🎨 style: remove trailing whitespace
+0006. 🐛 fix: prevent crash on empty input
