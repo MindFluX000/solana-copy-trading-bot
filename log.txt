@@ -679,3 +679,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0478. 🐛 fix: resolve issue with date parsing
 0347. ♻️ chore: update .gitignore
+0770. ♻️ chore: rename env.example
