@@ -681,3 +681,4 @@
 0347. ♻️ chore: update .gitignore
 0770. ♻️ chore: rename env.example
 0905. ♻️ chore: bump dependencies
+0974. ✨ feat: add export to CSV option
