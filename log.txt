@@ -687,3 +687,4 @@
 0474. ✅ test: add unit test for quiz service
 0533. ♻️ chore: add GitHub actions badge
 0380. 🐛 fix: fix null pointer exception on login
+0646. ✅ test: test user registration edge cases
