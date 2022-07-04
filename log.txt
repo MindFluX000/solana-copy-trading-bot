@@ -695,3 +695,4 @@
 0843. 📚 docs: document token refresh logic
 0972. 🔧 refactor: refactor quiz grading logic
 0509. ♻️ chore: bump dependencies
+0066. 🔧 refactor: clean up auth middleware
