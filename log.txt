@@ -733,3 +733,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0238. 🎨 style: apply consistent indentation
 0555. ✨ feat: create admin dashboard
+0496. ✅ test: add integration test for /submit endpoint
