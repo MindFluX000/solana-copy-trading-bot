@@ -736,3 +736,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0128. ♻️ chore: rename env.example
 0591. ♻️ chore: clean up unused files
+0187. ✨ feat: support email verification
