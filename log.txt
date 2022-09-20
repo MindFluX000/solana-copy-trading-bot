@@ -739,3 +739,4 @@
 0187. ✨ feat: support email verification
 0305. ✨ feat: enable dark mode toggle
 0254. 🚀 perf: reduce image load time
+0022. 📚 docs: document token refresh logic
