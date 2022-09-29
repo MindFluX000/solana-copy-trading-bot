@@ -745,3 +745,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0435. ✅ test: add unit test for quiz service
 0433. 🐛 fix: prevent crash on empty input
+0193. 🚀 perf: optimize database query for quiz results
