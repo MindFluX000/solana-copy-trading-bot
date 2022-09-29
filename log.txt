@@ -744,3 +744,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0480. ♻️ chore: add GitHub actions badge
 0435. ✅ test: add unit test for quiz service
+0433. 🐛 fix: prevent crash on empty input
