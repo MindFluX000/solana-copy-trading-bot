@@ -748,3 +748,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0329. 📚 docs: update README with setup steps
 0195. 📚 docs: clarify environment setup
+0739. 🎨 style: remove trailing whitespace
