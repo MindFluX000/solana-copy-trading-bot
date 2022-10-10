@@ -750,3 +750,4 @@
 0195. 📚 docs: clarify environment setup
 0739. 🎨 style: remove trailing whitespace
 0016. 🎨 style: apply consistent indentation
+0394. 🚀 perf: lazy-load components
