@@ -758,3 +758,4 @@
 0453. 🎨 style: standardize quote style
 0226. 🚀 perf: lazy-load components
 0051. ✨ feat: enable dark mode toggle
+0146. 🎨 style: apply consistent indentation
