@@ -762,3 +762,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0939. 📚 docs: update README with setup steps
 0775. 🐛 fix: fix null pointer exception on login
+0855. 🎨 style: reformat files with black
