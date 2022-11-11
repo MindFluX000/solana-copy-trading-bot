@@ -763,3 +763,4 @@
 0939. 📚 docs: update README with setup steps
 0775. 🐛 fix: fix null pointer exception on login
 0855. 🎨 style: reformat files with black
+0105. 🐛 fix: correct typo in registration form
