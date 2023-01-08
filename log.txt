@@ -785,3 +785,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0310. 🔧 refactor: refactor quiz grading logic
 0665. ♻️ chore: update .gitignore
+0911. ✅ test: increase coverage on auth module
