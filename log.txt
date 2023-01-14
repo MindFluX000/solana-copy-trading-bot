@@ -788,3 +788,4 @@
 0911. ✅ test: increase coverage on auth module
 0959. 🐛 fix: fix null pointer exception on login
 0457. 🐛 fix: handle 500 error in quiz API
+0034. 📚 docs: improve code comments in utils
