@@ -793,3 +793,4 @@
 0468. 📚 docs: update README with setup steps
 0133. 🐛 fix: fix null pointer exception on login
 0624. ✅ test: add unit test for quiz service
+0945. ♻️ chore: add GitHub actions badge
