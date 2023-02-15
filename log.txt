@@ -799,3 +799,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0464. 🎨 style: remove trailing whitespace
 0612. ✅ test: test user registration edge cases
+0647. 🐛 fix: prevent crash on empty input
