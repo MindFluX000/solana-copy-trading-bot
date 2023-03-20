@@ -809,3 +809,4 @@
 0824. 🚀 perf: lazy-load components
 0018. 🔧 refactor: organize models into subfolders
 0679. ♻️ chore: bump dependencies
+0383. 🐛 fix: fix broken CSS in mobile view
