@@ -812,3 +812,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0180. ✨ feat: add export to CSV option
 0181. ♻️ chore: add GitHub actions badge
+0837. 🚀 perf: cache repeated calculations
