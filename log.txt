@@ -817,3 +817,4 @@
 0324. 📚 docs: document token refresh logic
 0419. 🎨 style: remove trailing whitespace
 0152. ✨ feat: add user authentication
+0112. ✨ feat: enable dark mode toggle
