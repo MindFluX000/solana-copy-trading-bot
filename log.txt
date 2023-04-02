@@ -819,3 +819,4 @@
 0152. ✨ feat: add user authentication
 0112. ✨ feat: enable dark mode toggle
 0336. ✨ feat: add export to CSV option
+0965. 🎨 style: reformat files with black
