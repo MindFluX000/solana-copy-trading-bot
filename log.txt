@@ -825,3 +825,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0944. ✨ feat: add user authentication
 0145. 📚 docs: improve code comments in utils
+0222. 🐛 fix: handle 500 error in quiz API
