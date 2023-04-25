@@ -832,3 +832,4 @@
 0303. 🎨 style: rename variables for clarity
 0424. ✨ feat: add user authentication
 0895. ✨ feat: support email verification
+0263. 📚 docs: add API usage examples
