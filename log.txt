@@ -834,3 +834,4 @@
 0895. ✨ feat: support email verification
 0263. 📚 docs: add API usage examples
 0242. ♻️ chore: clean up unused files
+0363. 📚 docs: clarify environment setup
