@@ -839,3 +839,4 @@
 0401. 🚀 perf: reduce image load time
 0832. 🔧 refactor: remove redundant code blocks
 0399. ✅ test: mock database connection in test suite
+0569. 📚 docs: document token refresh logic
