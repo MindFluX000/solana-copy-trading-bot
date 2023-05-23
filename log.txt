@@ -843,3 +843,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0556. ✨ feat: support email verification
 0139. 📚 docs: document token refresh logic
+0698. 🐛 fix: handle 500 error in quiz API
