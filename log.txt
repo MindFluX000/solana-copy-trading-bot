@@ -850,3 +850,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0723. 🔧 refactor: remove redundant code blocks
 0071. 🔧 refactor: refactor quiz grading logic
+0072. 🚀 perf: optimize database query for quiz results
