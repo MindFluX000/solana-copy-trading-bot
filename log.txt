@@ -855,3 +855,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0575. ✅ test: add unit test for quiz service
 0097. 🐛 fix: handle 500 error in quiz API
+0012. 🚀 perf: cache repeated calculations
