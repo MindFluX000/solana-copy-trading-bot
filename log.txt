@@ -867,3 +867,4 @@
 0172. 📚 docs: add API usage examples
 0200. 🐛 fix: handle 500 error in quiz API
 0680. ♻️ chore: add GitHub actions badge
+0849. 🐛 fix: correct typo in registration form
