@@ -868,3 +868,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0680. ♻️ chore: add GitHub actions badge
 0849. 🐛 fix: correct typo in registration form
+0113. ✨ feat: add user authentication
