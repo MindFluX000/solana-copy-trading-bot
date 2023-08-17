@@ -871,3 +871,4 @@
 0113. ✨ feat: add user authentication
 0344. ♻️ chore: add GitHub actions badge
 0830. 🎨 style: apply consistent indentation
+0372. ✨ feat: add user authentication
