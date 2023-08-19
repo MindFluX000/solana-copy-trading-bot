@@ -873,3 +873,4 @@
 0830. 🎨 style: apply consistent indentation
 0372. ✨ feat: add user authentication
 0599. ✅ test: test user registration edge cases
+0566. 📚 docs: write FAQ section
