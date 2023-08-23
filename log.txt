@@ -877,3 +877,4 @@
 0584. 🚀 perf: lazy-load components
 0835. 🐛 fix: prevent crash on empty input
 0813. 🔧 refactor: organize models into subfolders
+0264. 🚀 perf: optimize database query for quiz results
