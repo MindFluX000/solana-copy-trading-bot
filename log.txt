@@ -5,3 +5,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0714. 📚 docs: improve code comments in utils
 0489. 🔧 refactor: organize models into subfolders
+0538. 🐛 fix: fix broken CSS in mobile view
