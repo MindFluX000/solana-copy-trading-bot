@@ -8,3 +8,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0370. 🚀 perf: reduce image load time
 0979. 🎨 style: standardize quote style
+0002. 🚀 perf: cache repeated calculations
