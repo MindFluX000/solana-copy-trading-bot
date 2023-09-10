@@ -882,3 +882,4 @@
 0610. 🚀 perf: lazy-load components
 0483. 📚 docs: update README with setup steps
 0619. ✨ feat: create admin dashboard
+0852. ✨ feat: enable dark mode toggle
