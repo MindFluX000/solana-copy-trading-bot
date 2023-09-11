@@ -884,3 +884,4 @@
 0619. ✨ feat: create admin dashboard
 0852. ✨ feat: enable dark mode toggle
 0677. 📚 docs: add API usage examples
+0629. 🔧 refactor: organize models into subfolders
