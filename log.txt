@@ -887,3 +887,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0798. 🚀 perf: reduce image load time
 0258. 🐛 fix: prevent crash on empty input
+0295. 🎨 style: remove trailing whitespace
