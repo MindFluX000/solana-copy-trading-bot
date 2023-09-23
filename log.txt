@@ -893,3 +893,4 @@
 0885. ♻️ chore: update .gitignore
 0929. ✨ feat: support email verification
 0358. 🚀 perf: reduce image load time
+0617. ✨ feat: support email verification
