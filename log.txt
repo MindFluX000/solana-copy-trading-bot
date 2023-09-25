@@ -12,3 +12,4 @@
 0184. 📚 docs: improve code comments in utils
 0166. 🚀 perf: cache repeated calculations
 0999. 🔧 refactor: split large controller into smaller functions
+0982. 🚀 perf: lazy-load components
