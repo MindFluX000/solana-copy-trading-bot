@@ -896,3 +896,4 @@
 0617. ✨ feat: support email verification
 0471. ✨ feat: support email verification
 0475. 🔧 refactor: clean up auth middleware
+0291. 📚 docs: write FAQ section
