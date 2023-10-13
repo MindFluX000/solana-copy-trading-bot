@@ -15,3 +15,4 @@
 0982. 🚀 perf: lazy-load components
 0288. 🔧 refactor: refactor quiz grading logic
 0021. ✨ feat: support email verification
+0488. ♻️ chore: add GitHub actions badge
