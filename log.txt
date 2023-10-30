@@ -909,3 +909,4 @@
 0473. 📚 docs: write FAQ section
 0734. ✨ feat: add export to CSV option
 0495. 🔧 refactor: remove redundant code blocks
+0268. 🐛 fix: prevent crash on empty input
