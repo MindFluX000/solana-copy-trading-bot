@@ -910,3 +910,4 @@
 0734. ✨ feat: add export to CSV option
 0495. 🔧 refactor: remove redundant code blocks
 0268. 🐛 fix: prevent crash on empty input
+0306. 🎨 style: apply consistent indentation
