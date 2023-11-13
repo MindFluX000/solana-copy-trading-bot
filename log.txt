@@ -22,3 +22,4 @@
 0580. ♻️ chore: bump dependencies
 0787. ♻️ chore: rename env.example
 0883. 📚 docs: improve code comments in utils
+0429. ✨ feat: add user authentication
