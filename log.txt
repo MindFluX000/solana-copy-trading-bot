@@ -23,3 +23,4 @@
 0787. ♻️ chore: rename env.example
 0883. 📚 docs: improve code comments in utils
 0429. ✨ feat: add user authentication
+0029. 🚀 perf: lazy-load components
