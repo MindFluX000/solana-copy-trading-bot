@@ -24,3 +24,4 @@
 0883. 📚 docs: improve code comments in utils
 0429. ✨ feat: add user authentication
 0029. 🚀 perf: lazy-load components
+0615. 🐛 fix: correct typo in registration form
