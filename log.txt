@@ -25,3 +25,4 @@
 0429. ✨ feat: add user authentication
 0029. 🚀 perf: lazy-load components
 0615. 🐛 fix: correct typo in registration form
+0945. ♻️ chore: add GitHub actions badge
