@@ -927,3 +927,4 @@
 0724. ✅ test: mock database connection in test suite
 0541. 🐛 fix: correct typo in registration form
 0582. ✨ feat: add export to CSV option
+0784. ♻️ chore: clean up unused files
