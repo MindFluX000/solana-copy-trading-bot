@@ -34,3 +34,4 @@
 0908. ♻️ chore: bump dependencies
 0655. 🚀 perf: cache repeated calculations
 0266. 🔧 refactor: remove redundant code blocks
+0973. 🔧 refactor: organize models into subfolders
