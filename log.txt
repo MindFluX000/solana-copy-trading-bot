@@ -938,3 +938,4 @@
 0002. 🚀 perf: cache repeated calculations
 0326. 🚀 perf: cache repeated calculations
 0217. 🚀 perf: reduce image load time
+0277. 🎨 style: standardize quote style
