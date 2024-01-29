@@ -940,3 +940,4 @@
 0217. 🚀 perf: reduce image load time
 0277. 🎨 style: standardize quote style
 0430. 🐛 fix: fix null pointer exception on login
+0973. 🔧 refactor: organize models into subfolders
