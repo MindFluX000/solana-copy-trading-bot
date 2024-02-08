@@ -41,3 +41,4 @@
 0022. 📚 docs: document token refresh logic
 0144. ✅ test: increase coverage on auth module
 0715. ✨ feat: create admin dashboard
+0993. ✨ feat: implement quiz timer feature
