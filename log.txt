@@ -946,3 +946,4 @@
 0709. ♻️ chore: bump dependencies
 0828. ♻️ chore: add GitHub actions badge
 0856. 🐛 fix: fix null pointer exception on login
+0726. ✨ feat: enable dark mode toggle
