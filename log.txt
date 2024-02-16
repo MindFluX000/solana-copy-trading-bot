@@ -948,3 +948,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0726. ✨ feat: enable dark mode toggle
 0901. ✨ feat: add user authentication
+0593. 🐛 fix: correct typo in registration form
