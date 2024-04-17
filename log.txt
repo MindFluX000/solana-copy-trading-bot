@@ -54,3 +54,4 @@
 0402. 🎨 style: reformat files with black
 0414. 🔧 refactor: remove redundant code blocks
 0635. 🎨 style: apply consistent indentation
+0188. 🎨 style: apply consistent indentation
