@@ -971,3 +971,4 @@
 0144. ✅ test: increase coverage on auth module
 0315. ✅ test: add integration test for /submit endpoint
 0080. ✨ feat: support email verification
+0810. 🔧 refactor: refactor quiz grading logic
