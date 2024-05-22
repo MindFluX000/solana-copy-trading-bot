@@ -972,3 +972,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0080. ✨ feat: support email verification
 0810. 🔧 refactor: refactor quiz grading logic
+0953. 🎨 style: remove trailing whitespace
