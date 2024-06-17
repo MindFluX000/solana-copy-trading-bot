@@ -979,3 +979,4 @@
 0745. ✅ test: add unit test for quiz service
 0707. 🎨 style: apply consistent indentation
 0539. 🔧 refactor: organize models into subfolders
+0792. 🎨 style: standardize quote style
