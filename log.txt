@@ -984,3 +984,4 @@
 0636. ✅ test: increase coverage on auth module
 0529. 📚 docs: write FAQ section
 0749. ✨ feat: support email verification
+0926. 🔧 refactor: organize models into subfolders
