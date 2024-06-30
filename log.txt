@@ -983,3 +983,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0636. ✅ test: increase coverage on auth module
 0529. 📚 docs: write FAQ section
+0749. ✨ feat: support email verification
