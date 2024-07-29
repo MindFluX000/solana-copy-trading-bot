@@ -992,3 +992,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0708. ✅ test: add integration test for /submit endpoint
 0902. ✨ feat: enable dark mode toggle
+0369. 🎨 style: standardize quote style
