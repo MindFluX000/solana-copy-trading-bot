@@ -995,3 +995,4 @@
 0369. 🎨 style: standardize quote style
 0100. ♻️ chore: update .gitignore
 0342. 🚀 perf: cache repeated calculations
+0803. ✅ test: mock database connection in test suite
