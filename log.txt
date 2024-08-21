@@ -996,3 +996,4 @@
 0100. ♻️ chore: update .gitignore
 0342. 🚀 perf: cache repeated calculations
 0803. ✅ test: mock database connection in test suite
+0754. 🐛 fix: handle 500 error in quiz API
