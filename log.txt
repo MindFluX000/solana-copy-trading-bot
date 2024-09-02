@@ -93,3 +93,4 @@
 0015. ✨ feat: implement quiz timer feature
 0773. 📚 docs: document token refresh logic
 0040. 🔧 refactor: clean up auth middleware
+0169. 📚 docs: add API usage examples
