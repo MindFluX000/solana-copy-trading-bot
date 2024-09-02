@@ -91,3 +91,4 @@
 0064. 📚 docs: clarify environment setup
 0096. 🐛 fix: prevent crash on empty input
 0015. ✨ feat: implement quiz timer feature
+0773. 📚 docs: document token refresh logic
