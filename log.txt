@@ -98,3 +98,4 @@
 0689. 🎨 style: reformat files with black
 0253. 📚 docs: update README with setup steps
 0727. ♻️ chore: add GitHub actions badge
+0006. 🐛 fix: prevent crash on empty input
