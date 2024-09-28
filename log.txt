@@ -1013,3 +1013,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0296. 🔧 refactor: organize models into subfolders
 0660. 🐛 fix: correct typo in registration form
+0733. 🐛 fix: fix null pointer exception on login
