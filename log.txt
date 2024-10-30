@@ -106,3 +106,4 @@
 0549. ✨ feat: enable dark mode toggle
 0380. 🐛 fix: fix null pointer exception on login
 0024. 📚 docs: write FAQ section
+0059. ♻️ chore: bump dependencies
