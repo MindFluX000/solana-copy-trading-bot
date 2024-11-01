@@ -107,3 +107,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0024. 📚 docs: write FAQ section
 0059. ♻️ chore: bump dependencies
+0113. ✨ feat: add user authentication
