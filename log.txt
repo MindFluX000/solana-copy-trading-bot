@@ -1030,3 +1030,4 @@
 0518. ✨ feat: support email verification
 0600. 🐛 fix: prevent crash on empty input
 0526. ✨ feat: add user authentication
+0586. 🎨 style: remove trailing whitespace
