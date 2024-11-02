@@ -1032,3 +1032,4 @@
 0526. ✨ feat: add user authentication
 0586. 🎨 style: remove trailing whitespace
 0011. ✅ test: add unit test for quiz service
+0135. ✅ test: test user registration edge cases
