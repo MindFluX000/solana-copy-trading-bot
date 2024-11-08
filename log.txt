@@ -109,3 +109,4 @@
 0059. ♻️ chore: bump dependencies
 0113. ✨ feat: add user authentication
 0236. 🔧 refactor: remove redundant code blocks
+0487. 🎨 style: reformat files with black
