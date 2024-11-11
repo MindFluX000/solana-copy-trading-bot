@@ -1035,3 +1035,4 @@
 0135. ✅ test: test user registration edge cases
 0046. 🎨 style: rename variables for clarity
 0663. 🚀 perf: reduce image load time
+0623. 🎨 style: standardize quote style
