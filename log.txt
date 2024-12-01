@@ -1038,3 +1038,4 @@
 0623. 🎨 style: standardize quote style
 0166. 🚀 perf: cache repeated calculations
 0337. 📚 docs: document token refresh logic
+0074. ♻️ chore: add GitHub actions badge
