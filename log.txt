@@ -1041,3 +1041,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0378. 🐛 fix: prevent crash on empty input
 0143. ✨ feat: implement quiz timer feature
+0649. 📚 docs: update README with setup steps
