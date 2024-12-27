@@ -1053,3 +1053,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0536. ✨ feat: add user authentication
 0090. ✅ test: increase coverage on auth module
+0659. 📚 docs: add API usage examples
