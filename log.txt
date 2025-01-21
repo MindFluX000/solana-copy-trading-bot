@@ -1061,3 +1061,4 @@
 0055. 📚 docs: update README with setup steps
 0019. ✨ feat: enable dark mode toggle
 0091. ✨ feat: add user authentication
+0795. 📚 docs: update README with setup steps
