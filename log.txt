@@ -129,3 +129,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0567. 📚 docs: add API usage examples
 0260. ✨ feat: create admin dashboard
+0933. 📚 docs: clarify environment setup
