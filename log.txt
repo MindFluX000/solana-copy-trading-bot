@@ -130,3 +130,4 @@
 0567. 📚 docs: add API usage examples
 0260. ✨ feat: create admin dashboard
 0933. 📚 docs: clarify environment setup
+0668. 🚀 perf: optimize database query for quiz results
