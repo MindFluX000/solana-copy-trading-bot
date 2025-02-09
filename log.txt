@@ -1070,3 +1070,4 @@
 0643. 🎨 style: apply consistent indentation
 0829. 🔧 refactor: organize models into subfolders
 0477. 🐛 fix: fix broken CSS in mobile view
+0335. ♻️ chore: update .gitignore
