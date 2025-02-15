@@ -1073,3 +1073,4 @@
 0335. ♻️ chore: update .gitignore
 0963. 🚀 perf: reduce image load time
 0904. ✨ feat: implement quiz timer feature
+0408. ♻️ chore: add GitHub actions badge
