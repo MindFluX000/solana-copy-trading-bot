@@ -1077,3 +1077,4 @@
 0864. 🐛 fix: correct typo in registration form
 0996. ✅ test: test user registration edge cases
 0957. 🐛 fix: fix null pointer exception on login
+0867. 🔧 refactor: refactor quiz grading logic
