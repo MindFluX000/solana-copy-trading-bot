@@ -1083,3 +1083,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0633. ✨ feat: add user authentication
 0564. 📚 docs: clarify environment setup
+0482. ✨ feat: add export to CSV option
