@@ -138,3 +138,4 @@
 0766. 🎨 style: reformat files with black
 0205. 📚 docs: update README with setup steps
 0751. 🐛 fix: handle 500 error in quiz API
+0424. ✨ feat: add user authentication
