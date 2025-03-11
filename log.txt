@@ -1089,3 +1089,4 @@
 0548. 📚 docs: write FAQ section
 0130. 🔧 refactor: split large controller into smaller functions
 0328. 🐛 fix: resolve issue with date parsing
+0042. 📚 docs: document token refresh logic
