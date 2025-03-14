@@ -1091,3 +1091,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0042. 📚 docs: document token refresh logic
 0118. 🚀 perf: reduce image load time
+0502. 📚 docs: update README with setup steps
