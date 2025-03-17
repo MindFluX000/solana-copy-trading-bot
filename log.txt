@@ -1095,3 +1095,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0818. 🔧 refactor: remove redundant code blocks
 0714. 📚 docs: improve code comments in utils
+0678. ✨ feat: add user authentication
