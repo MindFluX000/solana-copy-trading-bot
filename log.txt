@@ -1100,3 +1100,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0122. ✨ feat: support email verification
 0664. ✅ test: add unit test for quiz service
+0013. ✅ test: increase coverage on auth module
