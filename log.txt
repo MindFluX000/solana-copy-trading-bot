@@ -1102,3 +1102,4 @@
 0664. ✅ test: add unit test for quiz service
 0013. ✅ test: increase coverage on auth module
 0420. 🚀 perf: reduce image load time
+0505. ♻️ chore: add GitHub actions badge
