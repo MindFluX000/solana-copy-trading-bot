@@ -1109,3 +1109,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0742. 📚 docs: clarify environment setup
 0682. ♻️ chore: rename env.example
+0491. 🚀 perf: lazy-load components
