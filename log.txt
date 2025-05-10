@@ -1112,3 +1112,4 @@
 0491. 🚀 perf: lazy-load components
 0641. 📚 docs: write FAQ section
 0142. ✨ feat: implement quiz timer feature
+0513. ♻️ chore: bump dependencies
