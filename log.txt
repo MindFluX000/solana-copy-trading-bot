@@ -1114,3 +1114,4 @@
 0142. ✨ feat: implement quiz timer feature
 0513. ♻️ chore: bump dependencies
 0228. 🔧 refactor: remove redundant code blocks
+0253. 📚 docs: update README with setup steps
