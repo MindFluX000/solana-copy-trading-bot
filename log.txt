@@ -1121,3 +1121,4 @@
 0831. 📚 docs: clarify environment setup
 0387. ✨ feat: enable dark mode toggle
 0059. ♻️ chore: bump dependencies
+0003. ✅ test: increase coverage on auth module
