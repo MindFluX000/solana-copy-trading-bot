@@ -155,3 +155,4 @@
 0051. ✨ feat: enable dark mode toggle
 0569. 📚 docs: document token refresh logic
 0135. ✅ test: test user registration edge cases
+0978. 🐛 fix: prevent crash on empty input
