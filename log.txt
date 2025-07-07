@@ -159,3 +159,4 @@
 0362. 📚 docs: add API usage examples
 0942. ✅ test: increase coverage on auth module
 0133. 🐛 fix: fix null pointer exception on login
+0669. ✨ feat: enable dark mode toggle
