@@ -1140,3 +1140,4 @@
 0604. 📚 docs: add API usage examples
 0927. ♻️ chore: bump dependencies
 0218. 🔧 refactor: clean up auth middleware
+0493. ✨ feat: add user authentication
