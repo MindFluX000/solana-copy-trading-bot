@@ -1146,3 +1146,4 @@
 0716. ✨ feat: implement quiz timer feature
 0087. ✨ feat: add export to CSV option
 0356. 📚 docs: write FAQ section
+0947. 📚 docs: write FAQ section
