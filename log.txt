@@ -1148,3 +1148,4 @@
 0356. 📚 docs: write FAQ section
 0947. 📚 docs: write FAQ section
 0223. 🔧 refactor: remove redundant code blocks
+0781. 🚀 perf: reduce image load time
