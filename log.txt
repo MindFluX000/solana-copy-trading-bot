@@ -1152,3 +1152,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0538. 🐛 fix: fix broken CSS in mobile view
 0938. 🎨 style: rename variables for clarity
+0962. ✨ feat: create admin dashboard
