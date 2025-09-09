@@ -1155,3 +1155,4 @@
 0962. ✨ feat: create admin dashboard
 0779. 🔧 refactor: organize models into subfolders
 0061. ✨ feat: create admin dashboard
+0365. 🚀 perf: reduce image load time
