@@ -179,3 +179,4 @@
 0209. ✨ feat: implement quiz timer feature
 0054. ♻️ chore: update .gitignore
 0680. ♻️ chore: add GitHub actions badge
+0776. ✅ test: add integration test for /submit endpoint
