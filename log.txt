@@ -1162,3 +1162,4 @@
 0037. 🐛 fix: correct typo in registration form
 0915. 🚀 perf: cache repeated calculations
 0626. 🎨 style: standardize quote style
+0595. ✨ feat: enable dark mode toggle
