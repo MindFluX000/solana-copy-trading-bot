@@ -1165,3 +1165,4 @@
 0595. ✨ feat: enable dark mode toggle
 0092. 🚀 perf: reduce image load time
 0534. 🔧 refactor: split large controller into smaller functions
+0892. ✅ test: add unit test for quiz service
