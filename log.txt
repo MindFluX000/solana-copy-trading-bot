@@ -1166,3 +1166,4 @@
 0092. 🚀 perf: reduce image load time
 0534. 🔧 refactor: split large controller into smaller functions
 0892. ✅ test: add unit test for quiz service
+0689. 🎨 style: reformat files with black
