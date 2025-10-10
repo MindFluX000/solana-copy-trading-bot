@@ -1170,3 +1170,4 @@
 0605. ✨ feat: support email verification
 0206. 🐛 fix: handle 500 error in quiz API
 0719. 🎨 style: apply consistent indentation
+0865. ♻️ chore: add GitHub actions badge
