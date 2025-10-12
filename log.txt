@@ -1171,3 +1171,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0719. 🎨 style: apply consistent indentation
 0865. ♻️ chore: add GitHub actions badge
+0988. 🐛 fix: fix broken CSS in mobile view
