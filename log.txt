@@ -188,3 +188,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0311. 🎨 style: apply consistent indentation
 0375. 🐛 fix: handle 500 error in quiz API
+0523. ♻️ chore: bump dependencies
