@@ -1182,3 +1182,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0023. 📚 docs: clarify environment setup
 0126. 🎨 style: rename variables for clarity
+0227. ✅ test: test user registration edge cases
