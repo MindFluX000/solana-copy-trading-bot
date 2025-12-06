@@ -196,3 +196,4 @@
 0597. 🚀 perf: cache repeated calculations
 0395. 📚 docs: write FAQ section
 0192. ✨ feat: enable dark mode toggle
+0079. 🐛 fix: correct typo in registration form
