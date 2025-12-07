@@ -1194,3 +1194,4 @@
 0618. ✨ feat: support email verification
 0173. 🚀 perf: cache repeated calculations
 0923. ✨ feat: support email verification
+0297. 🎨 style: remove trailing whitespace
