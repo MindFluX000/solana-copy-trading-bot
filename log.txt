@@ -1196,3 +1196,4 @@
 0923. ✨ feat: support email verification
 0297. 🎨 style: remove trailing whitespace
 0500. ✅ test: add integration test for /submit endpoint
+0451. ✨ feat: support email verification
