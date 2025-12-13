@@ -1,3 +1,3 @@
 # usr
 
-lets tet
+repo details 
