@@ -201,4 +201,5 @@ This software is provided "as is" without warranty. Use at your own risk. Always
 For more detailed information, advanced configuration, or collaboration inquiries, please reach out to me directly.
 https://github.com/AlphaFox000/
 
-⭐ **Star this repository** if you find it useful! Your support helps us continue developing and improving this tool.
+### ⭐ Star this repository 
+If you find it useful! Your support helps us continue developing and improving this tool.
