@@ -192,6 +192,12 @@ DYNAMIC_TRAILING_STOP_THRESHOLDS=20:5,50:10,100:30,200:100,500:100,1000:100
 
 ---
 
-### License
+### ⚠️ Disclaimer
 
-For personal/educational use. Review and comply with your jurisdiction and exchange/DEX terms.
+This software is provided "as is" without warranty. Use at your own risk. Always conduct thorough testing before deploying to mainnet. Some implementation details may be omitted for security reasons.
+
+### 🚀 Support
+
+For more detailed information, advanced configuration, or collaboration inquiries, please reach out to me directly.
+https://github.com/AlphaFox000/
+
